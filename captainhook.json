@@ -1,0 +1,10 @@
+{
+	"config": {
+		"includes": [
+			"vendor/thomasboom89/captainhook-collection/configuration/codesniffer.json",
+			"vendor/thomasboom89/captainhook-collection/configuration/mess-detector.json",
+			"vendor/thomasboom89/captainhook-collection/configuration/phpunit.json",
+			"vendor/thomasboom89/captainhook-collection/configuration/static-analysis.json"
+		]
+	}
+}
