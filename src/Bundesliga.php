@@ -19,7 +19,7 @@ class Bundesliga
     private Parser $parser;
 
     public function __construct(
-        private readonly ClientInterface         $httpClient,
+        private readonly ClientInterface $httpClient,
         private readonly RequestFactoryInterface $requestFactory
     ) {
         $this->parser = new Parser();

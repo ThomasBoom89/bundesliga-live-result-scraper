@@ -8,8 +8,8 @@ class Result
 {
     public string $homeTeam   = '';
     public string $guestTeam  = '';
-    public int    $homeScore  = 0;
-    public int    $guestScore = 0;
-    public bool   $hasStarted = true;
-    public bool   $isFinished = false;
+    public int $homeScore  = 0;
+    public int $guestScore = 0;
+    public bool $hasStarted = true;
+    public bool $isFinished = false;
 }
