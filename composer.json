@@ -1,5 +1,18 @@
 {
-	"name": "thomasboom89/bundesliga-live-results",
+	"name": "thomasboom89/bundesliga-live-result-scraper",
+	"description": "This is a scraper for Deutsche Fussball Bundesliga 1 & 2 live results ",
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/ThomasBoom89/bundesliga-live-result-scraper/issues"
+	},
+	"authors": [
+		{
+			"name": "ThomasBoom89",
+			"email": "51998416+ThomasBoom89@users.noreply.github.com",
+			"homepage": "https://github.com/ThomasBoom89/bundesliga-live-result-scraper",
+			"role": "owner"
+		}
+	],
 	"autoload": {
 		"psr-4": {
 			"ThomasBoom89\\BundesligaLiveResults\\": "src/"
