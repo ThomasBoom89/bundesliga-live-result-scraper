@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "40c891ba7e981b5cc4346b6d5503a3d8",
+    "content-hash": "4561081c25a8b7e2a71ba0b564f7be47",
     "packages": [
         {
             "name": "psr/http-client",
@@ -5321,16 +5321,16 @@
         },
         {
             "name": "thomasboom89/captainhook-collection",
-            "version": "v0.0.3",
+            "version": "v0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ThomasBoom89/captainhook-collection.git",
-                "reference": "f1235bf66d547f68a62ffac660d824243399fae9"
+                "reference": "b021dcafa437e9cddf7ce383a1a4f0b6e66d94e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ThomasBoom89/captainhook-collection/zipball/f1235bf66d547f68a62ffac660d824243399fae9",
-                "reference": "f1235bf66d547f68a62ffac660d824243399fae9",
+                "url": "https://api.github.com/repos/ThomasBoom89/captainhook-collection/zipball/b021dcafa437e9cddf7ce383a1a4f0b6e66d94e5",
+                "reference": "b021dcafa437e9cddf7ce383a1a4f0b6e66d94e5",
                 "shasum": ""
             },
             "type": "library",
@@ -5350,7 +5350,7 @@
                 "issues": "https://github.com/ThomasBoom89/captainhook-collection/issues",
                 "source": "https://github.com/ThomasBoom89/captainhook-collection"
             },
-            "time": "2023-02-24T17:44:45+00:00"
+            "time": "2023-02-24T18:26:23+00:00"
         },
         {
             "name": "twig/twig",
