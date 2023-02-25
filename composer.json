@@ -33,7 +33,7 @@
 		"phpunit/phpunit": "9.5.*",
 		"roave/security-advisories": "dev-latest",
 		"squizlabs/php_codesniffer": "3.7.*",
-		"thomasboom89/captainhook-collection": "^0.0.3",
+		"thomasboom89/captainhook-collection": "^0.0.4",
 		"twig/twig": "^3.5"
 	},
 	"config": {
