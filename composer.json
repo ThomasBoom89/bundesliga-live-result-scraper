@@ -28,7 +28,7 @@
 		"captainhook/captainhook": "5.16.*",
 		"guzzlehttp/guzzle": "7.*",
 		"php-http/mock-client": "1.6.*",
-		"phpmd/phpmd": "2.13.*",
+		"phpmd/phpmd": "2.14.*",
     "phpstan/phpstan": "1.10.*",
 		"phpunit/phpunit": "10.3.*",
 		"roave/security-advisories": "dev-latest",
