@@ -170,16 +170,16 @@
     "packages-dev": [
         {
             "name": "captainhook/captainhook",
-            "version": "5.19.0",
+            "version": "5.19.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/captainhookphp/captainhook.git",
-                "reference": "6109b0f8d31728368cfcfb7bd09db1f4a2f0cba3"
+                "reference": "93ef43a6934fdcaea7d20c983ec2ac05c103ab02"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/captainhookphp/captainhook/zipball/6109b0f8d31728368cfcfb7bd09db1f4a2f0cba3",
-                "reference": "6109b0f8d31728368cfcfb7bd09db1f4a2f0cba3",
+                "url": "https://api.github.com/repos/captainhookphp/captainhook/zipball/93ef43a6934fdcaea7d20c983ec2ac05c103ab02",
+                "reference": "93ef43a6934fdcaea7d20c983ec2ac05c103ab02",
                 "shasum": ""
             },
             "require": {
@@ -242,7 +242,7 @@
             ],
             "support": {
                 "issues": "https://github.com/captainhookphp/captainhook/issues",
-                "source": "https://github.com/captainhookphp/captainhook/tree/5.19.0"
+                "source": "https://github.com/captainhookphp/captainhook/tree/5.19.1"
             },
             "funding": [
                 {
@@ -250,7 +250,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-12-01T14:34:56+00:00"
+            "time": "2023-12-15T09:20:36+00:00"
         },
         {
             "name": "captainhook/secrets",
