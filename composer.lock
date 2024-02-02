@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2bd9de972a773e0459e5e57cb9294b12",
+    "content-hash": "4ae129806b0c9e50e8640b2f7cf8c120",
     "packages": [
         {
             "name": "psr/http-client",
@@ -170,16 +170,16 @@
     "packages-dev": [
         {
             "name": "captainhook/captainhook",
-            "version": "5.20.0",
+            "version": "5.21.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/captainhookphp/captainhook.git",
-                "reference": "cebfe57cbb25f0646129c621b51029ebb06ad748"
+                "reference": "f0911f6b5bb9fe0f144a40fe1e156772dcfbdf90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/captainhookphp/captainhook/zipball/cebfe57cbb25f0646129c621b51029ebb06ad748",
-                "reference": "cebfe57cbb25f0646129c621b51029ebb06ad748",
+                "url": "https://api.github.com/repos/captainhookphp/captainhook/zipball/f0911f6b5bb9fe0f144a40fe1e156772dcfbdf90",
+                "reference": "f0911f6b5bb9fe0f144a40fe1e156772dcfbdf90",
                 "shasum": ""
             },
             "require": {
@@ -242,7 +242,7 @@
             ],
             "support": {
                 "issues": "https://github.com/captainhookphp/captainhook/issues",
-                "source": "https://github.com/captainhookphp/captainhook/tree/5.20.0"
+                "source": "https://github.com/captainhookphp/captainhook/tree/5.21.2"
             },
             "funding": [
                 {
@@ -250,7 +250,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-01-19T19:25:09+00:00"
+            "time": "2024-01-23T13:10:10+00:00"
         },
         {
             "name": "captainhook/secrets",
@@ -3848,16 +3848,16 @@
         },
         {
             "name": "sebastianfeldmann/git",
-            "version": "3.10.0",
+            "version": "3.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianfeldmann/git.git",
-                "reference": "4b77bd21321cdf8052681b4edf6fad1c606139d8"
+                "reference": "5cb1ea94f65c7420419abe8f12c45cc7eb094790"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianfeldmann/git/zipball/4b77bd21321cdf8052681b4edf6fad1c606139d8",
-                "reference": "4b77bd21321cdf8052681b4edf6fad1c606139d8",
+                "url": "https://api.github.com/repos/sebastianfeldmann/git/zipball/5cb1ea94f65c7420419abe8f12c45cc7eb094790",
+                "reference": "5cb1ea94f65c7420419abe8f12c45cc7eb094790",
                 "shasum": ""
             },
             "require": {
@@ -3898,7 +3898,7 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianfeldmann/git/issues",
-                "source": "https://github.com/sebastianfeldmann/git/tree/3.10.0"
+                "source": "https://github.com/sebastianfeldmann/git/tree/3.11.0"
             },
             "funding": [
                 {
@@ -3906,7 +3906,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-01-16T15:47:13+00:00"
+            "time": "2024-01-23T09:11:14+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
