@@ -30,7 +30,7 @@
 		"php-http/mock-client": "1.6.*",
 		"phpmd/phpmd": "2.15.*",
     "phpstan/phpstan": "2.0.*",
-		"phpunit/phpunit": "11.4.*",
+		"phpunit/phpunit": "11.5.*",
 		"roave/security-advisories": "dev-latest",
 		"squizlabs/php_codesniffer": "3.11.*",
 		"thomasboom89/captainhook-collection": "^0.0.4",
