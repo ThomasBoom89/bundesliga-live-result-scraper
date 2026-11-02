@@ -26,7 +26,7 @@
 	},
 	"require-dev": {
 		"captainhook/captainhook": "5.24.*",
-		"guzzlehttp/guzzle": "7.*",
+		"guzzlehttp/guzzle": "8.*",
 		"php-http/mock-client": "1.6.*",
 		"phpmd/phpmd": "2.15.*",
     "phpstan/phpstan": "2.1.*",
